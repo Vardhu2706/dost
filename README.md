@@ -1,6 +1,6 @@
 # Dost: a friend you can call. No app, no login.
 
-Built for the Sarvam Bulbul Build Challenge. Demo video: `<DEMO_VIDEO_LINK>` · Post: `<POST_LINK>`
+Built for the Sarvam Bulbul Build Challenge. Demo video & post: `<[DEMO_VIDEO_LINK](https://x.com/var_ayy/status/2110368539198845174?s=20)>`
 
 A friend to talk to, not therapy or a medical service, and not clinically validated. See [Status](#status).
 
