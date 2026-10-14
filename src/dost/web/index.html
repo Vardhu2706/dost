@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Dost</title>
+<link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+<main>
+  <div class="avatar">द</div>
+  <h1>Dost</h1>
+  <p id="status">Tap to call</p>
+  <p id="timer">00:00</p>
+  <label class="num">Your number (optional, so Dost can remember a short summary)
+    <input id="number" type="tel" inputmode="tel" autocomplete="off" placeholder="+91 98xxx xxxxx">
+  </label>
+  <button id="btn" class="call">Call</button>
+  <p class="note">Dost is an AI voice, not a person, and not a therapist. Headphones recommended.
+  Emergency: 112. Tele-MANAS: 14416.</p>
+  <p class="note">Leave the number empty and nothing from the call is kept. With a number, Dost keeps a
+  short summary under a hash of it (pseudonymized, not anonymous). Say "bhool jao" or "forget it" to delete it.</p>
+</main>
+<script src="/static/call.js"></script>
+</body>
+</html>
